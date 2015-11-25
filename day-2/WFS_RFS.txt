@@ -1,0 +1,1 @@
+Writing to a file using WRITEFILESYNC and reading using ReadFileSync
